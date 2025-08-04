@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_row">
+    <sp_row action="DELETE">
+        <class_name/>
+        <order>1</order>
+        <semantic_tag/>
+        <sp_column/>
+        <sp_container display_value="Copy of Home Page (1) - Container 4">0b4bc292c34b2a105c5cb71ed40131c1</sp_container>
+        <sys_class_name>sp_row</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-01 09:53:17</sys_created_on>
+        <sys_id>df4bc292c34b2a105c5cb71ed40131c3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1</sys_name>
+        <sys_package display_value="Smart Ride Connect" source="x_1633452_smrt_ri">d1a60586c38b66105c5cb71ed40131b0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Smart Ride Connect">d1a60586c38b66105c5cb71ed40131b0</sys_scope>
+        <sys_update_name>sp_row_df4bc292c34b2a105c5cb71ed40131c3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-01 09:53:17</sys_updated_on>
+    </sp_row>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Smart Ride Connect">d1a60586c38b66105c5cb71ed40131b0</application>
+        <file_path/>
+        <instance_id>b7f75707dbf17510ae4c9027c596198e</instance_id>
+        <instance_name>dev186342</instance_name>
+        <name>sp_row_df4bc292c34b2a105c5cb71ed40131c3</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_row"><sp_row action="INSERT_OR_UPDATE"><class_name/><order>1</order><semantic_tag/><sp_column/><sp_container display_value="Copy of Home Page (1) - Container 4">0b4bc292c34b2a105c5cb71ed40131c1</sp_container><sys_class_name>sp_row</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-08-01 09:53:17</sys_created_on><sys_id>df4bc292c34b2a105c5cb71ed40131c3</sys_id><sys_mod_count>0</sys_mod_count><sys_name>1</sys_name><sys_package display_value="Smart Ride Connect" source="x_1633452_smrt_ri">d1a60586c38b66105c5cb71ed40131b0</sys_package><sys_policy/><sys_scope display_value="Smart Ride Connect">d1a60586c38b66105c5cb71ed40131b0</sys_scope><sys_update_name>sp_row_df4bc292c34b2a105c5cb71ed40131c3</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-08-01 09:53:17</sys_updated_on></sp_row></record_update>]]></payload>
+        <payload_hash>549971025</payload_hash>
+        <record_name>1</record_name>
+        <reverted_from/>
+        <source>1da64582c38f66105c5cb71ed4013129</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-01 09:53:17</sys_created_on>
+        <sys_id>9f4bc292c34b2a105c5cb71ed40131c5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>198650cda410000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-01 09:53:17</sys_updated_on>
+        <type>Row</type>
+        <update_guid>534bc292294b2a102e30eb1f3d5734c5</update_guid>
+        <update_guid_history>534bc292294b2a102e30eb1f3d5734c5:549971025</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="1">9c00565ec34b2a105c5cb71ed40131fe</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-01 10:13:51</sys_created_on>
+        <sys_db_object display_value="" name="sp_row">sp_row</sys_db_object>
+        <sys_id>022e2ded04b74cce82600cc1181337a4</sys_id>
+        <sys_metadata>df4bc292c34b2a105c5cb71ed40131c3</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1</sys_name>
+        <sys_package display_value="Smart Ride Connect" source="x_1633452_smrt_ri">d1a60586c38b66105c5cb71ed40131b0</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Smart Ride Connect">d1a60586c38b66105c5cb71ed40131b0</sys_scope>
+        <sys_scope_delete display_value="">0584cdcbaa9c45408100171205098c90</sys_scope_delete>
+        <sys_update_name>sp_row_df4bc292c34b2a105c5cb71ed40131c3</sys_update_name>
+        <sys_update_version display_value="sp_row_df4bc292c34b2a105c5cb71ed40131c3">9f4bc292c34b2a105c5cb71ed40131c5</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-01 10:13:51</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

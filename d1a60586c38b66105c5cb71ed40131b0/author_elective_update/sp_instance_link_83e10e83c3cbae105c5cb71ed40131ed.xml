@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_link">
+    <sp_instance_link action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph>car</glyph>
+        <id/>
+        <kb_article/>
+        <kb_category/>
+        <kb_topic/>
+        <order>1</order>
+        <roles/>
+        <sc_cat_item display_value="Change Password">3c72dc91eb00210045e1a5115206fec7</sc_cat_item>
+        <sc_category/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">1de1cac3c3cbae105c5cb71ed401312b</sp_column>
+        <sp_page/>
+        <sp_widget display_value="Custom Icon Widget">089086cfc387ae105c5cb71ed4013151</sp_widget>
+        <sys_class_name>sp_instance_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-03 17:07:46</sys_created_on>
+        <sys_id>83e10e83c3cbae105c5cb71ed40131ed</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Create Request</sys_name>
+        <sys_package display_value="Smart Ride Connect" source="x_1633452_smrt_ri">d1a60586c38b66105c5cb71ed40131b0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Smart Ride Connect">d1a60586c38b66105c5cb71ed40131b0</sys_scope>
+        <sys_update_name>sp_instance_link_83e10e83c3cbae105c5cb71ed40131ed</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-03 17:09:02</sys_updated_on>
+        <title>Create Request</title>
+        <type>sc_cat_item</type>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"link_template": {
+		"value": "Glyph Icon",
+		"displayValue": "Glyph Icon"
+	},
+	"image": {
+		"value": "",
+		"displayValue": ""
+	},
+	"target": {
+		"value": "",
+		"displayValue": ""
+	}
+}]]></widget_parameters>
+    </sp_instance_link>
+    <sys_translated_text action="DELETE" query="documentkey=83e10e83c3cbae105c5cb71ed40131ed"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Smart Ride Connect">d1a60586c38b66105c5cb71ed40131b0</application>
+        <file_path/>
+        <instance_id>b7f75707dbf17510ae4c9027c596198e</instance_id>
+        <instance_name>dev186342</instance_name>
+        <name>sp_instance_link_83e10e83c3cbae105c5cb71ed40131ed</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_instance_link"&gt;&lt;sp_instance_link action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;class_name/&gt;&lt;color&gt;default&lt;/color&gt;&lt;css/&gt;&lt;glyph&gt;car&lt;/glyph&gt;&lt;id/&gt;&lt;kb_article/&gt;&lt;kb_category/&gt;&lt;kb_topic/&gt;&lt;order&gt;1&lt;/order&gt;&lt;roles/&gt;&lt;sc_cat_item display_value="Change Password"&gt;3c72dc91eb00210045e1a5115206fec7&lt;/sc_cat_item&gt;&lt;sc_category/&gt;&lt;short_description/&gt;&lt;size&gt;md&lt;/size&gt;&lt;sp_column display_value="1"&gt;1de1cac3c3cbae105c5cb71ed401312b&lt;/sp_column&gt;&lt;sp_page/&gt;&lt;sp_widget display_value="Custom Icon Widget"&gt;089086cfc387ae105c5cb71ed4013151&lt;/sp_widget&gt;&lt;sys_class_name&gt;sp_instance_link&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2025-08-03 17:07:46&lt;/sys_created_on&gt;&lt;sys_id&gt;83e10e83c3cbae105c5cb71ed40131ed&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name&gt;Create Request&lt;/sys_name&gt;&lt;sys_package display_value="Smart Ride Connect" source="x_1633452_smrt_ri"&gt;d1a60586c38b66105c5cb71ed40131b0&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Smart Ride Connect"&gt;d1a60586c38b66105c5cb71ed40131b0&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_instance_link_83e10e83c3cbae105c5cb71ed40131ed&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2025-08-03 17:09:02&lt;/sys_updated_on&gt;&lt;title&gt;Create Request&lt;/title&gt;&lt;type&gt;sc_cat_item&lt;/type&gt;&lt;url/&gt;&lt;widget_parameters&gt;&lt;![CDATA[{
+	"link_template": {
+		"value": "Glyph Icon",
+		"displayValue": "Glyph Icon"
+	},
+	"image": {
+		"value": "",
+		"displayValue": ""
+	},
+	"target": {
+		"value": "",
+		"displayValue": ""
+	}
+}]]&gt;&lt;/widget_parameters&gt;&lt;/sp_instance_link&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=83e10e83c3cbae105c5cb71ed40131ed"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-950695784</payload_hash>
+        <record_name>Create Request</record_name>
+        <reverted_from/>
+        <source>1da64582c38f66105c5cb71ed4013129</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-03 17:09:02</sys_created_on>
+        <sys_id>fd328607c3cbae105c5cb71ed4013140</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19870e8828e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-03 17:09:02</sys_updated_on>
+        <type>Instance with Link</type>
+        <update_guid>353286070dcbae105d29b68de7759640</update_guid>
+        <update_guid_history>353286070dcbae105d29b68de7759640:-950695784,8be10ec302cbae10e4f005ee3314a455:1168393135</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Create Request">c814060bc3cbae105c5cb71ed401319b</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-03 17:17:07</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance_link">sp_instance_link</sys_db_object>
+        <sys_id>1383ed5979624c6ea06580f00afb3ba1</sys_id>
+        <sys_metadata>83e10e83c3cbae105c5cb71ed40131ed</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Create Request</sys_name>
+        <sys_package display_value="Smart Ride Connect" source="x_1633452_smrt_ri">d1a60586c38b66105c5cb71ed40131b0</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Smart Ride Connect">d1a60586c38b66105c5cb71ed40131b0</sys_scope>
+        <sys_scope_delete display_value="">0584cdcbaa9c45408100171205098c90</sys_scope_delete>
+        <sys_update_name>sp_instance_link_83e10e83c3cbae105c5cb71ed40131ed</sys_update_name>
+        <sys_update_version display_value="sp_instance_link_83e10e83c3cbae105c5cb71ed40131ed">fd328607c3cbae105c5cb71ed4013140</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-03 17:17:07</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
